@@ -3,8 +3,9 @@
 <h4> This Github profile is to showcase some of the Projects I am working on as well as displaying some of the tools I have developed.</h4>
 
 <h2> Cybersecurity Projects: </h2>
-- [Active Directory Lab](https://github.com/CyberSamedi/LABURL) <br>
-- [Microsoft Sentennal Lab](https://github.com/CyberSamedi/LABURL) <br>
+- [Active Directory with Domain Controller and User Setup](https://github.com/CyberSamedi/LABURL) <br>
+- [Microsoft Sentennal SIEM](https://github.com/CyberSamedi/LABURL) <br>
+- [File Integrity Monitor](https://github.com/CyberSamedi/LABURL) <br>
 
 
 <h2>Certifications: </h2>
